@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+.idea/
+*.tar.gz
+uploads/
+.build
+.deploy
+nginx.conf
+curv-app.iml
